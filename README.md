@@ -63,3 +63,16 @@ round-trip min/avg/max/stddev = 0.544/0.625/1.202/0.134 ms
 
 
  (5.) After Ping your Network, do you will get your current IP from the Mac. Not the IP from your Provider. Then go forward in the same Terminal Window, type your <code> ssh pi@raspberrypi.local </code> the Prompt with your Enter Taste.
+ 
+ <code> ssh pi@raspberrypi.local </code> 
+ 
+ 
+ 6. Now do you will get to the ssh RSA Key, if you have one.
+
+
+<pre>
+Space-O-Mac-Pro:~ cybo$ ssh pi@raspberrypi.local
+The authenticity of host 'raspberrypi.local (10.0.0.3)' can't be established.
+RSA key fingerprint is 7d:b7:30:bb:bc:78:97:da:3e:d8:e7:e7:7f:e4:a6:04.
+Are you sure you want to continue connecting (yes/no)?
+ </pre>
