@@ -28,3 +28,32 @@ Then follow the Installation from the Raspberry Pi.
 All of first do you have to Download the VNC Viewer here Download the newest Version of VNC Viewer for Mac OS X DMG Universal 5.2.3 The Install it on your Machine (Mac Os).
 
 4.First Open your Terminal in Mac Osx. Then Type <code> ping raspberrypi.local </code> 
+My Terminal : 
+
+Space-O-Mac-Pro:~ cybo$ ping raspberrypi.local
+PING raspberrypi.local (10.0.0.3): 56 data bytes
+64 bytes from 10.0.0.3: icmp_seq=0 ttl=64 time=1.202 ms
+64 bytes from 10.0.0.3: icmp_seq=1 ttl=64 time=0.554 ms
+64 bytes from 10.0.0.3: icmp_seq=2 ttl=64 time=0.597 ms
+64 bytes from 10.0.0.3: icmp_seq=3 ttl=64 time=0.544 ms
+64 bytes from 10.0.0.3: icmp_seq=4 ttl=64 time=0.597 ms
+64 bytes from 10.0.0.3: icmp_seq=5 ttl=64 time=0.553 ms
+64 bytes from 10.0.0.3: icmp_seq=6 ttl=64 time=0.645 ms
+64 bytes from 10.0.0.3: icmp_seq=7 ttl=64 time=0.674 ms
+64 bytes from 10.0.0.3: icmp_seq=8 ttl=64 time=0.578 ms
+64 bytes from 10.0.0.3: icmp_seq=9 ttl=64 time=0.581 ms
+64 bytes from 10.0.0.3: icmp_seq=10 ttl=64 time=0.566 ms
+64 bytes from 10.0.0.3: icmp_seq=11 ttl=64 time=0.614 ms
+64 bytes from 10.0.0.3: icmp_seq=12 ttl=64 time=0.581 ms
+64 bytes from 10.0.0.3: icmp_seq=13 ttl=64 time=0.577 ms
+64 bytes from 10.0.0.3: icmp_seq=14 ttl=64 time=0.554 ms
+64 bytes from 10.0.0.3: icmp_seq=15 ttl=64 time=0.590 ms
+64 bytes from 10.0.0.3: icmp_seq=16 ttl=64 time=0.646 ms
+64 bytes from 10.0.0.3: icmp_seq=17 ttl=64 time=0.641 ms
+64 bytes from 10.0.0.3: icmp_seq=18 ttl=64 time=0.575 ms
+64 bytes from 10.0.0.3: icmp_seq=19 ttl=64 time=0.602 ms
+64 bytes from 10.0.0.3: icmp_seq=20 ttl=64 time=0.645 ms
+^C
+--- raspberrypi.local ping statistics ---
+21 packets transmitted, 21 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 0.544/0.625/1.202/0.134 ms
