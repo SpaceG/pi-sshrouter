@@ -101,5 +101,27 @@ pi@raspberrypi ~ $
 <code> sudo apt-get install tightvncserver </code> 
 
 
+Don’t be worry this need a while, after that process type Commandline
 
+<code> tightvncserver </code> 
+
+
+you will get this Information out : Type your Password from your PI. After he ask you about a view-only password. Press (also for me ) No you will get forward to the desktop of your RaspberryPi. This Number after pi:1 is very important for our Viewer :1 This we need it for our VNC Viewer.
+
+
+<pre> 
+
+You will require a password to access your desktops.
+
+Password: 
+Verify:   
+Would you like to enter a view-only password (y/n)? no
+
+New 'X' desktop is raspberrypi:1
+
+Creating default startup script /home/pi/.vnc/xstartup
+Starting applications specified in /home/pi/.vnc/xstartup
+Log file is /home/pi/.vnc/raspberrypi:1.log
+
+</pre>
 
