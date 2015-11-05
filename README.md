@@ -76,3 +76,21 @@ The authenticity of host 'raspberrypi.local (10.0.0.3)' can't be established.
 RSA key fingerprint is 7d:b7:30:bb:bc:78:97:da:3e:d8:e7:e7:7f:e4:a6:04.
 Are you sure you want to continue connecting (yes/no)?
  </pre>
+
+
+Then Say Yes/No i typed Yes then i will be forward to the Passwort of my Raspberry. (The Pasword you can set up, by installing your Raspberry PI First Time.
+
+
+
+<pre>
+Linux raspberrypi 3.18.11+ #781 PREEMPT Tue Apr 21 18:02:18 BST 2015 armv6l
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+Last login: Mon Sep 28 00:04:24 2015
+pi@raspberrypi ~ $
+</pre>
