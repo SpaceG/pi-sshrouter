@@ -94,3 +94,6 @@ permitted by applicable law.
 Last login: Mon Sep 28 00:04:24 2015
 pi@raspberrypi ~ $
 </pre>
+
+
+(7.) Now :) , you entery and connect your Raspberry PI via Terminal on your Machine. Right After you entry your RaspberryPi via Termina, you have now to type the Commanline ls to see what is on your Raspberry Pi. As, we can see everything is fit to start the VNC Viewer (Server) promp this Commandline.
