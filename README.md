@@ -67,7 +67,7 @@ round-trip min/avg/max/stddev = 0.544/0.625/1.202/0.134 ms
  <code> ssh pi@raspberrypi.local </code> 
  
  
- 6. Now do you will get to the ssh RSA Key, if you have one.
+ (6.) Now do you will get to the ssh RSA Key, if you have one.
 
 
 <pre>
