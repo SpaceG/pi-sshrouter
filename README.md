@@ -61,4 +61,5 @@ round-trip min/avg/max/stddev = 0.544/0.625/1.202/0.134 ms
 </pre>
 
 
+
 5. After Ping your Network, do you will get your current IP from the Mac. Not the IP from your Provider. Then go forward in the same Terminal Window, type your <code> ssh pi@raspberrypi.local </code> the Prompt with your Enter Taste.
