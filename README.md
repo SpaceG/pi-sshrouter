@@ -30,7 +30,7 @@ All of first do you have to Download the VNC Viewer here Download the newest Ver
 4.First Open your Terminal in Mac Osx. Then Type <code> ping raspberrypi.local </code> 
 My Terminal : 
 
-<code>
+<pre>
 Space-O-Mac-Pro:~ cybo$ ping raspberrypi.local
 PING raspberrypi.local (10.0.0.3): 56 data bytes
 64 bytes from 10.0.0.3: icmp_seq=0 ttl=64 time=1.202 ms
@@ -58,4 +58,4 @@ PING raspberrypi.local (10.0.0.3): 56 data bytes
 --- raspberrypi.local ping statistics ---
 21 packets transmitted, 21 packets received, 0.0% packet loss
 round-trip min/avg/max/stddev = 0.544/0.625/1.202/0.134 ms
-</code>
+</pre>
